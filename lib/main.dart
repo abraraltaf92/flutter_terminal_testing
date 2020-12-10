@@ -12,7 +12,7 @@ class SpartanId extends StatelessWidget {
         title: Text('Spartan ID',
             style: TextStyle(
               letterSpacing: 1.0,
-              color: Colors.grey[400],
+              color: Colors.grey[300],
             )),
         centerTitle: true,
         elevation: 0.0,
